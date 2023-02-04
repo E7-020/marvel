@@ -1,0 +1,72 @@
+.comics-info {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 170px;
+    margin-bottom: 150px;
+}
+
+.comics-info-first-block-img {
+    width: 293px;
+    height: 450px;
+}
+
+.comics-info-second-block {
+    padding-left: 50px;
+}
+
+.comics-info-second-block-title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #000000;
+}
+
+.comics-info-second-block-description {
+    padding-top: 25px;
+    width: 550px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #000000;
+}
+
+.comics-info-second-block-pages {
+    padding-top: 25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #000000;
+}
+
+.comics-info-second-block-language {
+    padding-top: 25px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #000000;
+}
+
+.comics-info-second-block-price {
+    padding-top: 25px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #9F0013;
+}
+
+.comics-info-third-block {
+    padding-left: 220px;
+}
+
+.comics-info-third-block-link {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #000000;
+}

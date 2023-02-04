@@ -1,0 +1,41 @@
+.menu-span{
+    color: #9F0013;
+}
+.active-link {
+    color: var(--color-active);
+    color: #9F0013;
+    cursor: default;
+}
+
+.n-active-link {
+    color: black;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+.menu-link {
+    display: flex;
+
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+
+}
+
+.menu p {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: black;
+}
+
+.menu-link-slash {
+    padding-left: 8px;
+    padding-right: 8px;
+}

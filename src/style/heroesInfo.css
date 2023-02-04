@@ -1,0 +1,35 @@
+.heroes-info {
+    display: flex;
+    margin-top: 55px;
+    margin-left: 177px;
+}
+
+.heroes-info-block-img {
+    width: 293px;
+    height: 293px;
+}
+
+.heroes-info-block-text {
+    padding-left: 50px;
+
+}
+
+.heroes-info-block-text-name {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 26px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #000000
+}
+
+.heroes-info-block-text-description {
+    padding-top: 15px;
+    width: 550px;
+    height: 168px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #000000;
+}
